@@ -1,4 +1,5 @@
 # Estructura_Lineal_PILA
+
 Programa básico de la función de una pila en estructura de datos creado en el lenguaje C++ 
 
 Iniciamos nuestro programa escribiendo las librerias que ocuparemos para cada función. La primera estructura nos permite hacer uso de lafunción gotoxy para poder presentar en pantalla los letreros que se hayan puesto en el programa desde un punto de la consola. La segunda estructura que es la tipo nodo es necesaria para hacer uso de ella en la pila. La tercera estrcutura es para crear un puntero y poder usarlo al momento de agregar datos a la pila.
