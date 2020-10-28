@@ -19,7 +19,7 @@ Iniciamos en la funcion principal main creando la pila y declarando algunas vari
 ![4](https://user-images.githubusercontent.com/72058362/97488224-8e7c6980-1923-11eb-945e-90b41ede1fdb.png)
 ![5](https://user-images.githubusercontent.com/72058362/97492227-dd78cd80-1928-11eb-9e61-af45f8fee7c0.png)
 
-----------------------------------------------------------Pruebas en consola---------------------------------------------------------------------
+----------------------------------------------------------Pruebas en consola---------------------------------------------------------------
 
 Se presenta el menú de opciones en un punto centrico de la pantalla y se escribe el número de opción que se desee.
 
