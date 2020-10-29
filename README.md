@@ -6,6 +6,7 @@ Iniciamos nuestro programa escribiendo las librerias que ocuparemos para cada fu
 
 ![1](https://user-images.githubusercontent.com/72058362/97488108-6856c980-1923-11eb-9710-95c7eaf9a4d2.png)
 
+
 Creamos una estructura tipo void que nos permite ir agregando los valores que deseamos a la pila. La estructura denominada QUITAR_NUM efectua la acción de ir eliminando el ultimo valor ingresado a nuestra pila. La tercera estructura nos permite mostrar en pantalla los datos ingresado a la pila en orden LIFO.
 
 ![2](https://user-images.githubusercontent.com/72058362/97488138-71479b00-1923-11eb-9e35-1d54e86ea635.png)
